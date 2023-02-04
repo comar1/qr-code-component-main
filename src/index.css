@@ -85,6 +85,25 @@ img {
   border-radius: 14px;
 }
 
-h3, p {
+.content {
   color: black;
+}
+
+.card-title{
+  margin: 0px;
+  padding: 11px 0px;
+  font-weight: bold;
+  display: block;
+  font-size: 1.17em;
+  line-height: 120%;
+}
+
+.card-description
+{
+  margin: 0px;
+  padding: 6px 0px;
+  display: block;
+  font-size: 15px;
+  color: #9498a0;
+  line-height: 120%;
 }

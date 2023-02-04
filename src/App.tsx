@@ -11,9 +11,9 @@ function App() {
         <div>
           <img src="/images/image-qr-code.png" alt="qr-code" />
         </div>
-        <div>
-          <h3>Improve your front-end skills by building projects</h3>
-          <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+        <div className="content">
+          <div className="card-title">Improve your front-end skills by building projects</div>
+          <div className="card-description">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</div>
         </div>
       </div>
     </div>
